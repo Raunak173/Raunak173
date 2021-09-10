@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raunak Agarwal</h1>
+<h1 align="center">Hi, I'm Raunak Agarwal</h1>
 <h3 align="center">A passionate Coding Enthusiast and a MERN Stack learner.</h3>
 
 - 🌱 I’m currently learning **React, NodeJS and React Native**
