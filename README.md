@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raunak173&show_icons=true&locale=en" alt="raunak173" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raunak173&" alt="raunak173" /></p>
+
+ <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> <br />
