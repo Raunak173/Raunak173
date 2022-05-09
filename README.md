@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Raunak Agarwal</h1>
 <h3 align="center">A passionate Coding Enthusiast and a MERN Stack learner.</h3>
 
+-👨‍💻 I'm currently working as a Full Stack Intern @BlokMiners
+
 - 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **raunakagarwal173@gmail.com**
