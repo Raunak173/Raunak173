@@ -1,13 +1,11 @@
 <h1 align="center">Hi, I'm Raunak Agarwal</h1>
-<h3 align="center">A passionate Coding Enthusiast and a MERN Stack learner.</h3>
+<h3 align="center">A passionate Coding Enthusiast and a MERN Stack Web Developer.</h3>
 
-- 👨‍💻 I'm currently working as a Full Stack Intern **BlokMiners**
-
-- 🌱 I’m currently learning **React Native**
+- 👨‍💻 I'm currently working as a Full Stack Intern at **BlokMiners**
 
 - 📫 How to reach me **raunakagarwal173@gmail.com**
 
-- ⚡ Fun fact **I am a big foodie 😝**
+- 😝 Fun fact I am a big **foodie**
 
 <a href="https://raunak-dev.netlify.app/">My Portfolio</a>
 
