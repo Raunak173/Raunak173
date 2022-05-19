@@ -45,4 +45,4 @@
 <br/>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=raunak173&" alt="raunak173" /></p>
 
- <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> <br />
+ <img height="120" alt="Thanks for visiting me. Please follow !" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> <br />
