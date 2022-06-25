@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hey!+It's+Raunak+Agarwal!+👋;I'm+a+Full+Stack+MERN+Developer;And+a+junior+at+HBTU!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hey!+It's+Raunak+Agarwal!+👋;I'm+a+Full+Stack+MERN+Developer;And+a+Problem+Solver;Currently+a+Junior+at+HBTU!)
 
 - 👨‍💻 I'm currently working as a Full Stack Intern at **BlokMiners**
 
