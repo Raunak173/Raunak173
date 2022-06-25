@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Raunak Agarwal</h1>
-<h3 align="center">A passionate Coding Enthusiast and a MERN Stack Web Developer.</h3>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hey!+It's+Raunak+Agarwal!+👋;I'm+a+Full+Stack+MERN+Developer;And+a+junior+at+HBTU!)
 
 - 👨‍💻 I'm currently working as a Full Stack Intern at **BlokMiners**
 
