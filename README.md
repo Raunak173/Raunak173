@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hey!+It's+Raunak+Agarwal!+👋;A+Full+Stack+MERN+Developer;And+a+Problem+Solver;Currently+a+Junior+at+HBTU!)
 
-- 👨‍💻 I'm currently working as a Full Stack Intern at **BlokMiners**
+- 👨‍💻 I'm currently working as a App Developer Intern at **RenderbitTechnologies**
 
 - 💻 Associate Web Development Head at **Technical Sub Council HBTU** 
 
