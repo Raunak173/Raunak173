@@ -2,6 +2,8 @@
 
 - 👨‍💻 I'm currently working as a App Developer Intern at **RenderbitTechnologies**
 
+- 👨‍💻 Worked as a Full SStack Intern at **Blokminers**
+
 - 💻 Associate Web Development Head at **Technical Sub Council HBTU** 
 
 - 🏫 Currently pursuing my B.Tech in Mechanical Engineering from **HBTU Kanpur**
