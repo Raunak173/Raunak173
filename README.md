@@ -2,7 +2,7 @@
 
 - 👨‍💻 I'm currently working as a App Developer Intern at **RenderbitTechnologies**
 
-- 👨‍💻 Worked as a Full Stack Intern at **Blokminers**
+- 👨‍💻 Ex - Full Stack Intern at **Blokminers**
 
 - 💻 Associate Web Development Head at **Technical Sub Council HBTU** 
 
