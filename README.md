@@ -34,6 +34,9 @@
     <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Raunak173&show_icons=true&count_private=true&theme=dark" width="500"></a>
 </p>
+<p align="center">
+<img height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=Raunak173&theme=github-dark-blue"/>
+</p>
 
 
  <img height="120" alt="Thanks for visiting me. Please follow !" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> <br />
