@@ -2,6 +2,8 @@
 
 - 👨‍💻 I'm currently working as a App Developer Intern at **RenderbitTechnologies**
 
+- 🏆 Won the Smart India Hackathon 2022
+
 - 👨‍💻 Ex - Full Stack Intern at **Blokminers**
 
 - 💻 Web Development Head at **Entrepreneurship Cell HBTU**
