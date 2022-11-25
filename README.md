@@ -44,5 +44,8 @@
 <p align="center">
 <a href="http://www.github.com/Raunak173"><img src="https://activity-graph.herokuapp.com/graph?username=Raunak173&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </p>
-
+<h1 align='Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+<img src="https://github.com/Raunak173/Raunak173/blob/output/github-contribution-grid-snake.svg" alt='snake'/>
+</p>
  <img height="120" alt="Thanks for visiting me. Please follow !" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> <br />
