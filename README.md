@@ -1,8 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hey!+It's+Raunak+Agarwal!+👋;A+Full+Stack+MERN+Developer;And+a+React+Native+App+Developer;Currently+a+Junior+at+HBTU!)
 
-- 👨‍💻 I'm currently working as a App Developer Intern at **RenderbitTechnologies**
+- 👨‍💻 I'm currently working as a Frontend Developer Intern at **Truebroker**
 
 - 🏆 Won the Smart India Hackathon 2022
+
+- 👨‍💻 Ex - Mobile App Developer Intern at **Renderbit Technologies**
 
 - 👨‍💻 Ex - Full Stack Intern at **Blokminers**
 
