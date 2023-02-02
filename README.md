@@ -10,7 +10,7 @@
 
 - 💻 Web Development Head at **Entrepreneurship Cell HBTU**
 
-- 💻 Associate Web Development Head at **Technical Sub Council HBTU** 
+- 💻 Web Development Head at **Technical Sub Council HBTU** 
 
 - 🏫 Currently pursuing my B.Tech in Mechanical Engineering from **HBTU Kanpur**
 
