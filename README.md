@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hey!+It's+Raunak+Agarwal!+👋;A+Full+Stack+MERN+Developer;And+a+React+Native+App+Developer;Currently+a+Junior+at+HBTU!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hey!+It's+Raunak+Agarwal!+👋;A+FrontEnd+Developer;And+a+React+Native+App+Developer;Currently+a+Junior+at+HBTU!)
 
 - 👨‍💻 I'm currently working as a Frontend Developer Intern at **Truebroker**
 
