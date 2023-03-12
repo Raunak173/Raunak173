@@ -1,5 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hey!+It's+Raunak+Agarwal!+👋;A+FrontEnd+Developer;And+a+React+Native+App+Developer;Currently+a+Junior+at+HBTU!)
 
+- 👨‍💻 SDE Intern - Medbikri
+
 - 👨‍💻 Former - Frontend Developer Intern at **Truebroker**
 
 - 🏆 Won the Smart India Hackathon 2022
