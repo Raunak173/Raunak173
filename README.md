@@ -10,6 +10,8 @@
 
 - 👨‍💻 Former - Full Stack Intern at **Blokminers**
 
+- 💻 Web Development Head at **Cultural Sub Council HBTU** 
+
 - 💻 Web Development Head at **Entrepreneurship Cell HBTU**
 
 - 💻 Web Development Head at **Technical Sub Council HBTU** 
