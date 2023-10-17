@@ -1,5 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hey!+It's+Raunak+Agarwal!+👋;A+FrontEnd+Developer;And+a+React+Native+App+Developer;Currently+a+Senior+at+HBTU!)
-- 👨‍💻 React/React Native Developer Intern - Doeasily
+- 👨‍💻 SDE Intern - Doeasily
  
 - 👨‍💻 Former SDE Intern - Medbikri
 
