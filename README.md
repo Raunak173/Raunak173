@@ -49,7 +49,7 @@
 <img height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=Raunak173&theme=github-dark-blue"/>
 </p>
 <p align="center">
-<a href="http://www.github.com/Raunak173"><img src="https://activity-graph.herokuapp.com/graph?username=Raunak173&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![Raunak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Raunak173&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
  <img height="120" alt="Thanks for visiting me. Please follow !" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> <br />
