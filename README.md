@@ -1,4 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hey!+It's+Raunak+Agarwal!+👋;A+Full+Stack+Developer;And+a+React+Native+App+Developer;A+Java+Backend+Developer;Currently+a+Senior+at+HBTU!)
+- 👨‍💻 SDE Intern - Nudge
+- 
 - 👨‍💻 SDE Intern - Doeasily
  
 - 👨‍💻 Former SDE Intern - Medbikri
@@ -8,8 +10,6 @@
 - 🏆 Won the Smart India Hackathon 2022
 
 - 👨‍💻 Former - Mobile App Developer Intern at **Renderbit Technologies**
-
-- 👨‍💻 Former - Full Stack Intern at **Blokminers**
 
 - 💻 Web Development Head at **Cultural Sub Council HBTU** 
 
