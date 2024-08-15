@@ -1,11 +1,11 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hey!+It's+Raunak+Agarwal!+👋;A+Full+Stack+Developer;And+a+React+Native+App+Developer;A+Java+Backend+Developer;Currently+a+Senior+at+HBTU!)
 - 👨‍💻 SDE-1 - Tap Health
   
-- 👨‍💻 SDE Intern - SigIq AI
+- 👨‍💻 Former SDE Intern - SigIq AI
 
-- 👨‍💻 SDE Intern - Nudge
+- 👨‍💻 Former SDE Intern - Nudge
  
-- 👨‍💻 SDE Intern - Doeasily
+- 👨‍💻 Former SDE Intern - Doeasily
  
 - 👨‍💻 Former SDE Intern - Medbikri
 
@@ -13,13 +13,11 @@
 
 - 👨‍💻 Former - Mobile App Developer Intern at **Renderbit Technologies**
 
-- 💻 Web Development Head at **Cultural Sub Council HBTU** 
+- 💻 Former Web Development Head at **Cultural Sub Council HBTU** 
 
-- 💻 Web Development Head at **Entrepreneurship Cell HBTU**
+- 💻 Former Web Development Head at **Technical Sub Council HBTU** 
 
-- 💻 Web Development Head at **Technical Sub Council HBTU** 
-
-- 🏫 Currently pursuing my B.Tech in Mechanical Engineering from **HBTU Kanpur**
+- 🏫 Completed my B.Tech in Mechanical Engineering from **HBTU Kanpur**
 
 - 📫 How to reach me **raunakagarwal173@gmail.com**
 
