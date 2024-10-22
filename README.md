@@ -11,12 +11,6 @@
 
 - 🏆 Won the Smart India Hackathon 2022
 
-- 👨‍💻 Former - Mobile App Developer Intern at **Renderbit Technologies**
-
-- 💻 Former Web Development Head at **Cultural Sub Council HBTU** 
-
-- 💻 Former Web Development Head at **Technical Sub Council HBTU** 
-
 - 🏫 Completed my B.Tech in Mechanical Engineering from **HBTU Kanpur**
 
 - 📫 How to reach me **raunakagarwal173@gmail.com**
