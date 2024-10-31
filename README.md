@@ -45,7 +45,7 @@
 <img height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=Raunak173&theme=github-dark-blue"/>
 </p>
 <p align="center">
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raunak173&theme=merko)
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raunak173&theme=merko" alt="Graph">
 </p>
 
  <img height="120" alt="Thanks for visiting me. Please follow !" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> <br />
