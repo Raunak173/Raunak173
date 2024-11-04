@@ -17,7 +17,7 @@
 
 - 😝 Fun fact I am a big **foodie**
 
-<a href="https://raunak-dev.netlify.app/">My Portfolio</a>
+<a href="https://raunak-agarwal.vercel.app/">My Portfolio</a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
