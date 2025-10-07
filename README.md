@@ -1,13 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hey!+It's+Raunak+Agarwal!+👋;A+Full+Stack+Developer;And+a+React+Native+App+Developer;A+Golang+Backend+Developer;Currently+an+APP+Dev+at+Taphealth!)
-- 👨‍💻 SDE-1(React Native) - Tap Health
-  
-- 👨‍💻 Former SDE(React Native) - SigIq AI
-
-- 👨‍💻 Former SDE(React Native) Intern - Nudge
- 
-- 👨‍💻 Former SDE Intern - Doeasily
- 
-- 👨‍💻 Former SDET Intern - Medbikri
+- Full Stack Developer at Findatutor.ch
 
 - 🏆 Won the Smart India Hackathon 2022
 
